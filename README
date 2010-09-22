@@ -1,0 +1,5 @@
+Requirements:
+* Python 2.5 or 2.6
+* Pygame
+
+To run, just type "python Shooter.py" into the terminal or command prompt.
