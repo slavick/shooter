@@ -1,5 +1,16 @@
+My take on the top-down space shooter. Your only goal in the game is to see how many enemies you can kill before you run out of lives. You can control your ship using either the mouse or a PC game controller (I use a MadCatz Xbox PC controller).
+
 Requirements:
 * Python 2.5 or 2.6
 * Pygame
+* (optional) PC game controller (much more fun)
 
 To run, just type "python Shooter.py" into the terminal or command prompt.
+
+Mouse controls:
+* Left click shoots
+* Right click moves
+
+Controller controls:
+* Left stick moves
+* Right stick shoots
